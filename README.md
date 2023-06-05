@@ -1,6 +1,5 @@
 <h1 align="center">
-  <img src="![51EWaIih3GL](https://github.com/codingcog23/YoloV7-Object-Detection-in-Windows/assets/134972060/34cf1fd2-21fe-484b-ba6b-2f06aa2c42bb)
-" alt="Project Icon" width="80" height="80"><br>
+
   CGPA Predictor Web Application with Flask and Power BI Integration
 </h1>
 
