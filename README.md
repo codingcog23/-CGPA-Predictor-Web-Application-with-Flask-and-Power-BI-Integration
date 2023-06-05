@@ -3,6 +3,11 @@
   CGPA Predictor Web Application with Flask and Power BI Integration
 </h1>
 
+ <p align="center">
+  <img width="600" src="![51EWaIih3GL](https://github.com/codingcog23/YoloV7-Object-Detection-in-Windows/assets/134972060/34cf1fd2-21fe-484b-ba6b-2f06aa2c42bb)
+">
+</p> 
+
 <p align="center">
   This project is a web application that predicts the Cumulative Grade Point Average (CGPA) of students based on various input parameters. It utilizes the Flask framework for the backend implementation and integrates with Power BI for data visualization.
 </p>
