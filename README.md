@@ -64,9 +64,6 @@ The home page (<code>home.html</code>) provides an interface for users to input 
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please submit a pull request or open an issue on the GitHub repository.
 
-## License
-
-This project is licensed under the <a href="LICENSE">MIT License</a>.
 
 ## Acknowledgements
 
